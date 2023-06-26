@@ -6,4 +6,5 @@ It is a system software that aims to bring together flower enthusiasts and peopl
 html css
 
 <h2>Ekran</h2>
+
 ![](ekran.gif)
